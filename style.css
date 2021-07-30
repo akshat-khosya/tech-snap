@@ -1,7 +1,8 @@
 .footer{
-    background-color: #1f1e1eda; 
+    background-color: #18181A; 
     color: white;
     font-family: 'Muli', sans-serif !important;
+    font-size: 0.8rem !important;
 }
 .footer__img{
     width: 5rem;
