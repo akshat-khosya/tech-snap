@@ -1,6 +1,7 @@
 .footer{
     background-color: #1f1e1eda; 
     color: white;
+    font-family: 'Muli', sans-serif !important;
 }
 .footer__img{
     width: 5rem;
